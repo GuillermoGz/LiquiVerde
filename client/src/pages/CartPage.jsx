@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { useCart } from '../context/cartContext';
+import { useCart } from '../context/CartContext';
 import { getOptimizeCart, substitucionProduct } from '../api/api';
 
 const CartPage = () => {

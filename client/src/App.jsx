@@ -3,7 +3,7 @@ import Layout from './layout/Layout'
 import HomePage from './pages/HomePage'
 import DetailProduct from './pages/DetailProduct'
 import NotFound404 from './pages/NotFound404'
-import { CartProvider } from './context/cartContext'
+import { CartProvider } from './context/CartContext';
 import { useState } from 'react'
 import CartDrawer from './components/CartDrawer'
 import CartPage from './pages/CartPage'

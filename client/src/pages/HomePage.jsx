@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { getProducts } from "../api/api";
-import { useCart } from "../context/cartContext";
+import { useCart } from "../context/CartContext";
 import { useNavigate } from "react-router-dom";
 
 const HomePage = () => {

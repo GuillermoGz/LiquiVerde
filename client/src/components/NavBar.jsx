@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Logo from '../assets/LiquiVerdeLogo.png';
 import { Link } from "react-router-dom";
 import { getProducts } from "../api/api";
-import { useCart } from "../context/cartContext";
+import { useCart } from "../context/CartContext"
 
 const NavBar = ({ onOpenCart }) => {
     const [mobileSearchOpen, setMobileSearchOpen] = useState(false);
