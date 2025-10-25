@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Leche entera 1L",
+    "barcode": "7800000111111",
+    "price": 1200,
+    "weightGrams": 1000,
+    "brand": "Colun CL",
+    "img": "https://santaisabel.vtexassets.com/arquivos/ids/295371/Leche-entera-1-L.jpg?v=638240207839630000",
+    "category": "Lácteos",
+    "nutrition": {
+      "calories": 640,
+      "protein": 32,
+      "fat": 34,
+      "carbs": 48
+    },
+    "sustainability": {
+      "ambiental": 0.55,
+      "social": 0.8,
+      "economico": 0.6
+    }
+  },
+  {
+    "name": "Leche descremada 1L",
+    "barcode": "7800000111112",
+    "price": 1350,
+    "weightGrams": 1000,
+    "brand": "Colun CL",
+    "img": "https://santaisabel.vtexassets.com/arquivos/ids/295370/Leche-descremada-1-L.jpg?v=638240207826800000",
+    "category": "Lácteos",
+    "nutrition": {
+      "calories": 380,
+      "protein": 34,
+      "fat": 5,
+      "carbs": 50
+    },
+    "sustainability": {
+      "ambiental": 0.62,
+      "social": 0.82,
+      "economico": 0.58
+    }
+  },
+  {
+    "name": "Arroz 1kg",
+    "barcode": "7800000222221",
+    "price": 1100,
+    "weightGrams": 1000,
+    "brand": "Cuisine & Co",
+    "img": "https://santaisabel.vtexassets.com/arquivos/ids/268448-900-900?width=900&height=900&aspect=true",
+    "category": "Despensa",
+    "nutrition": {
+      "calories": 3600,
+      "protein": 70,
+      "fat": 8,
+      "carbs": 800
+    },
+    "sustainability": {
+      "ambiental": 0.7,
+      "social": 0.7,
+      "economico": 0.9
+    }
+  },
+  {
+    "name": "Quinoa 600g",
+    "barcode": "7800000222222",
+    "price": 2600,
+    "weightGrams": 600,
+    "brand": "Andes",
+    "img": "https://santaisabel.vtexassets.com/arquivos/ids/394813-280-280?width=280&height=280&aspect=true",
+    "category": "Despensa",
+    "nutrition": {
+      "calories": 1850,
+      "protein": 70,
+      "fat": 30,
+      "carbs": 320
+    },
+    "sustainability": {
+      "ambiental": 0.85,
+      "social": 0.9,
+      "economico": 0.5
+    }
+  },
+  {
+    "name": "Porotos 1kg",
+    "barcode": "7800000222223",
+    "price": 1700,
+    "weightGrams": 1000,
+    "brand": "Banquete CL",
+    "img": "https://santaisabel.vtexassets.com/arquivos/ids/184946-280-280?width=280&height=280&aspect=true",
+    "category": "Despensa",
+    "nutrition": {
+      "calories": 3100,
+      "protein": 210,
+      "fat": 20,
+      "carbs": 420
+    },
+    "sustainability": {
+      "ambiental": 0.9,
+      "social": 0.8,
+      "economico": 0.8
+    }
+  },
+  {
+    "name": "Aceite de maravilla 900ml",
+    "barcode": "7800000333331",
+    "price": 2900,
+    "weightGrams": 900,
+    "brand": "Sol Andino",
+    "img": "https://santaisabel.vtexassets.com/arquivos/ids/278644-900-900?width=900&height=900&aspect=true",
+    "category": "Despensa",
+    "nutrition": {
+      "calories": 8100,
+      "protein": 0,
+      "fat": 900,
+      "carbs": 0
+    },
+    "sustainability": {
+      "ambiental": 0.4,
+      "social": 0.6,
+      "economico": 0.7
+    }
+  },
+  {
+    "name": "Atún en agua 170g",
+    "barcode": "7800000444441",
+    "price": 1200,
+    "weightGrams": 170,
+    "brand": "Cuisine & Co",
+    "img": "https://santaisabel.vtexassets.com/arquivos/ids/491495-280-280?width=280&height=280&aspect=true",
+    "category": "Conservas",
+    "nutrition": {
+      "calories": 200,
+      "protein": 42,
+      "fat": 2,
+      "carbs": 0
+    },
+    "sustainability": {
+      "ambiental": 0.3,
+      "social": 0.6,
+      "economico": 0.7
+    }
+  },
+  {
+    "name": "Lentejas 1kg",
+    "barcode": "7800000222224",
+    "price": 1600,
+    "weightGrams": 1000,
+    "brand": "Maxima CL",
+    "img": "https://santaisabel.vtexassets.com/arquivos/ids/171983-280-280?width=280&height=280&aspect=true",
+    "category": "Despensa",
+    "nutrition": {
+      "calories": 3200,
+      "protein": 250,
+      "fat": 20,
+      "carbs": 420
+    },
+    "sustainability": {
+      "ambiental": 0.92,
+      "social": 0.85,
+      "economico": 0.85
+    }
+  },
+  {
+    "name": "Pan molde integral 750g",
+    "barcode": "7800000555551",
+    "price": 1900,
+    "weightGrams": 750,
+    "brand": "Ideal",
+    "img": "https://santaisabel.vtexassets.com/arquivos/ids/451301-280-280?width=280&height=280&aspect=true",
+    "category": "Panadería",
+    "nutrition": {
+      "calories": 1800,
+      "protein": 80,
+      "fat": 30,
+      "carbs": 340
+    },
+    "sustainability": {
+      "ambiental": 0.75,
+      "social": 0.7,
+      "economico": 0.65
+    }
+  },
+  {
+    "name": "Tomate 1kg",
+    "barcode": "7800000666661",
+    "price": 1400,
+    "weightGrams": 1000,
+    "brand": "Agro CL",
+    "img": "https://santaisabel.vtexassets.com/arquivos/ids/180885-900-900?width=900&height=900&aspect=true",
+    "category": "Verdulería",
+    "nutrition": {
+      "calories": 180,
+      "protein": 8,
+      "fat": 2,
+      "carbs": 40
+    },
+    "sustainability": {
+      "ambiental": 0.8,
+      "social": 0.75,
+      "economico": 0.8
+    }
+  },
+  {
+    "name": "Manzana 1kg",
+    "barcode": "7800000666662",
+    "price": 1500,
+    "weightGrams": 1000,
+    "brand": "Agro CL",
+    "img": "https://santaisabel.vtexassets.com/arquivos/ids/528941-280-280?width=280&height=280&aspect=true",
+    "category": "Verdulería",
+    "nutrition": {
+      "calories": 520,
+      "protein": 4,
+      "fat": 1,
+      "carbs": 140
+    },
+    "sustainability": {
+      "ambiental": 0.78,
+      "social": 0.8,
+      "economico": 0.82
+    }
+  },
+  {
+    "name": "Detergente OMO 3L",
+    "barcode": "7800000777771",
+    "price": 4200,
+    "weightGrams": 3000,
+    "brand": "HogarVerde",
+    "img": "https://santaisabel.vtexassets.com/arquivos/ids/348327-280-280?width=280&height=280&aspect=true",
+    "category": "Aseo",
+    "nutrition": {},
+    "sustainability": {
+      "ambiental": 0.88,
+      "social": 0.7,
+      "economico": 0.6
+    }
+  }
+]
