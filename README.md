@@ -33,6 +33,15 @@ Frontend → http://localhost:5173
 Backend → http://localhost:4000/api
 
 ---
+## 🔑 Variables de entorno (.env)
+
+Crear archivo `.env` dentro de `/server` con:
+
+MONGO_URI=mongodb://localhost:27017/liquiverde
+
+⚠️ Nunca subir este archivo al repositorio público
+
+---
 
 ## 🧠 Algoritmos implementados
 
