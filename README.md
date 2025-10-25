@@ -4,6 +4,9 @@ Aplicación web que permite al usuario optimizar su compra considerando **presup
 
 ---
 
+El sitio esta alojado en
+https://liqui-verde-rchi.vercel.app/
+
 ## 🚀 Ejecución local
 
 ### ✅ Prerrequisitos
